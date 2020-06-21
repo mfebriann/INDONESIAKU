@@ -7,9 +7,8 @@ body {
 
 h2 {
     text-indent: 100px;
-    text-transform: capitalize;
+    font-variant: small-caps;
     color: white;
-
 }
 
 .corona:link a {
@@ -49,7 +48,3 @@ p {
     color: chartreuse;
 }
 
-
-img {
-    border: 4px solid orange;
-}
